@@ -1,0 +1,6 @@
+[
+  { "name": "1-cover.png", "query": "?shot=play&seed=1" },
+  { "name": "2-river.png", "query": "?shot=city&seed=1" },
+  { "name": "3-final.png", "query": "?shot=final&seed=1" },
+  { "name": "4-landed.png", "query": "?shot=win&seed=1" }
+]
